@@ -27,6 +27,7 @@
 - [Not Sharing My Name](https://github.com/BP-21)
 - Pietil
 - Aakash Shah
+- Aein Eskandari
 - [Guy Zilberg](https://github.com/guyzilberg)
 - [Kamilla Dallmann](https://github.com/kamilladallmann)
 - [Gaurav Gupta](https://github.com/gauravgupta98)
